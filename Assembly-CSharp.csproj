@@ -90,7 +90,11 @@
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\Utilities\BasicGameEvents.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\Utilities\ScreenShotHelper.cs" />
     <Compile Include="Assets\CoffeeShopStarterPack\Scripts\Utilities\SliceHelper.cs" />
+    <Compile Include="Assets\Scripts\CollisionDetect.cs" />
+    <Compile Include="Assets\Scripts\DestroyOutOfBounds.cs" />
+    <Compile Include="Assets\Scripts\NPCWalk.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
+    <Compile Include="Assets\Scripts\SpawnControl.cs" />
     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Users/Administrator/Desktop/Create with Code/Core Game Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
